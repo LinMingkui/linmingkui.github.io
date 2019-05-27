@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LinMingkui</title>
+    <link>https://linmingkui.github.io/</link>
+    <description>Recent content on LinMingkui</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-us</language>
+    <lastBuildDate>Mon, 27 May 2019 10:25:42 +0800</lastBuildDate>
+    
+	<atom:link href="https://linmingkui.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>聚合音乐</title>
+      <link>https://linmingkui.github.io/post/musicplayer/</link>
+      <pubDate>Mon, 27 May 2019 10:25:42 +0800</pubDate>
+      
+      <guid>https://linmingkui.github.io/post/musicplayer/</guid>
+      <description>聚合音乐把QQ音乐、酷狗音乐和网易云音乐聚合在了一起，方便用户使用
+首页 音乐列表 本地扫描及搜索 在线搜索 播放界面 通知 项目地址 GitHub</description>
+    </item>
+    
+  </channel>
+</rss>
